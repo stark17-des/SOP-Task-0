@@ -1,0 +1,8 @@
+CD : change directory to the SOP task re[pository
+Git branch name: create a new branch
+Git checkout name : switch to name branch
+Git commit : commit changes we have made
+git push : push changes into the repo
+git merge : used to merge two branches
+git add : add a file to the branch
+git status: check the status of the branch
